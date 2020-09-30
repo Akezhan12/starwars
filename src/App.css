@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.nav {
+  justify-content: center;
+}
+.nav ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+.nav ul li {
+ margin-right: 15px;
+}
+
+.nav a.active {
+  font-weight: bold;
+  color: blueviolet;
+}
